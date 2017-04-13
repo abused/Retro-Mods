@@ -1,0 +1,16 @@
+[
+{
+  "modid": "retromods",
+  "name": "Retro Mods",
+  "description": "What you loved from 1.7.10.",
+  "version": "1.0_1.10.2",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["abused_master"],
+  "credits": "Credit goes to all the mods from 1.7.10 that these items/blocks came from.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
