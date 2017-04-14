@@ -1,1 +1,11 @@
 itemGroup.RetroTab=Retro Mods
+
+enchantment.openblocks.flimflam=Flim Flam
+openblocks.flim_flammed=Something weird happens around you
+openblocks.misc.command.invalid=Invalid command arguments
+openblocks.misc.command.no_flim_flam=Invalid flim-flam name
+openblocks.misc.command.flim_flam_source=Player %s had been successfully flim-flammed with %s
+openblocks.misc.command.flim_flam_target=Someone doesn't like you. Someone with power
+openblocks.misc.command.flim_flam_failed=Flim-flamming failed!
+
+retromods.misc.hidden_lore=§a§oHold ALT to see history§r

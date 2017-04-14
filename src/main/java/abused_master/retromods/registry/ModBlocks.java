@@ -7,6 +7,7 @@ import net.minecraftforge.client.model.ModelLoader;
 
 public class ModBlocks {
 
+
     public static void initBlocks() {
     }
 
